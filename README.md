@@ -96,6 +96,17 @@ cd LLM-preview
 
 3. 确保您的环境满足算力需求，特别是GPU和CUDA版本要求
 
+## 核心贡献者
+- [宋志学](https://github.com/KMnO4-zx) (Datawhale成员-中国矿业大学(北京))
+- [邹雨衡](https://github.com/logan-zou) (Datawhale成员-对外经济贸易大学)
+- [李娇娇](https://github.com/Aphasia0515)（Datawhale成员-西安邮电大学）
+
+<div align=center style="margin-top: 30px;">
+  <a href="https://github.com/KMnO4-zx/LLM-preview/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=KMnO4-zx/LLM-preview" />
+  </a>
+</div>
+
 ## 📝 许可证
 
 &emsp;&emsp;本项目采用相应的开源许可证，详见 [LICENSE](LICENSE) 文件。
