@@ -1,0 +1,10 @@
+openai
+transformers
+modelscope
+datasets
+peft
+accelerate
+torch
+torchvision
+torchaudio
+vllm
