@@ -32,27 +32,30 @@
 
 ## 📖 课程大纲
 
-### Chapter 1 大模型介绍与环境配置
+### Chapter 1 大模型介绍与环境配置 [视频课程](https://meeting.tencent.com/crm/KDRyY7bo2a)
 - 什么是大模型？
 - 大模型与传统NLP模型（Bert）有什么不同？
 - 服务器环境配置
 - 模型下载
 
-### Chapter 2 大模型使用
+### Chapter 2 大模型使用 [视频课程](https://meeting.tencent.com/crm/N1G7XoaM9a)
 - API调用云端大模型
 - Transformers调用本地大模型
 - Vllm高效部署大模型并通过Python调用
 
-### Chapter 3 Prompt Engineering
+### Chapter 3 Prompt Engineering [视频课程](https://meeting.tencent.com/crm/N8vdeQo5cf)
 - 基本概念科普
 - 提示词技巧
 - 提示词书写实例
 
-### Chapter 4 微调大模型
+### Chapter 4 微调大模型 [视频课程](https://meeting.tencent.com/crm/2a3v53x752)
 - 深度学习基础普及
 - 什么是微调
 - 高效微调的原理和意义
 - 实践4B LLM Lora微调
+
+> GPU 云服务器使用教程 [视频课程](https://meeting.tencent.com/crm/2ZegB9XGd4)  
+> 理工科-大模型入门实训课程环境镜像 [Autodl 镜像链接](https://www.codewithgpu.com/i/datawhalechina/llm-preview/llm-preview)
 
 ## 💻 算力需求
 
