@@ -32,6 +32,9 @@
 
 ## 📖 课程大纲
 
+> GPU 云服务器使用教程 [视频课程](https://meeting.tencent.com/crm/2ZegB9XGd4)  
+> 理工科-大模型入门实训课程环境镜像 [Autodl 镜像链接](https://www.codewithgpu.com/i/datawhalechina/llm-preview/llm-preview)
+
 ### Chapter 1 大模型介绍与环境配置 [视频课程](https://meeting.tencent.com/crm/KDRyY7bo2a)
 - 什么是大模型？
 - 大模型与传统NLP模型（Bert）有什么不同？
@@ -54,8 +57,6 @@
 - 高效微调的原理和意义
 - 实践4B LLM Lora微调
 
-> GPU 云服务器使用教程 [视频课程](https://meeting.tencent.com/crm/2ZegB9XGd4)  
-> 理工科-大模型入门实训课程环境镜像 [Autodl 镜像链接](https://www.codewithgpu.com/i/datawhalechina/llm-preview/llm-preview)
 
 ## 💻 算力需求
 
@@ -99,10 +100,16 @@ cd LLM-preview
 
 3. 确保您的环境满足算力需求，特别是GPU和CUDA版本要求
 
-## 核心贡献者
+## 🙏 致谢
+
+### 核心贡献者
 - [宋志学](https://github.com/KMnO4-zx) (Datawhale成员-中国矿业大学(北京))
 - [邹雨衡](https://github.com/logan-zou) (Datawhale成员-对外经济贸易大学)
-- [李娇娇](https://github.com/Aphasia0515)（Datawhale成员-西安邮电大学）
+- [李娇娇](https://github.com/Aphasia0515) (Datawhale成员-西安邮电大学)
+
+### 合作机构及单位
+
+- 上海交通大学计算机学院
 
 <div align=center style="margin-top: 30px;">
   <a href="https://github.com/KMnO4-zx/LLM-preview/graphs/contributors">
