@@ -51,11 +51,12 @@
 - 提示词技巧
 - 提示词书写实例
 
-### Chapter 4 微调大模型 [视频课程](https://meeting.tencent.com/crm/2a3v53x752)
+### Chapter 4 微调大模型 [视频课程](https://meeting.tencent.com/cw/2qDRxvJA63)
 - 深度学习基础普及
 - 什么是微调
 - 高效微调的原理和意义
 - 实践4B LLM Lora微调
+- 后续学习建议
 
 
 ## 💻 算力需求
